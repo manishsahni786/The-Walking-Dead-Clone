@@ -1,3 +1,4 @@
 # Ignore only Assets and Library folders
 Assets/
+!Assets/**/*.meta
 Library/
